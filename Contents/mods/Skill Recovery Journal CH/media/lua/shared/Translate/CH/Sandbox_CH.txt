@@ -1,0 +1,10 @@
+-- Skill Recovery Journal --
+	Sandbox_SkillRecoveryJournal = "(MOD) 轉生日記",
+	Sandbox_SkillRecoveryJournalPercentage = "技能恢復 %",
+	Sandbox_SkillRecoveryJournalPercentage_tooltip = "從閱讀轉生日記中恢復的經驗量",
+	Sandbox_SkillRecoveryJournalTranscribeSpeed = "寫日記的速度 (多人)",
+	Sandbox_SkillRecoveryJournalTranscribeSpeed_tooltip = "多人遊戲中，寫日記的速度"
+	Sandbox_SkillRecoveryJournalReadTimeSpeed = "讀日記的速度 (多人)",
+	Sandbox_SkillRecoveryJournalReadTimeSpeed_tooltip = "多人遊戲中，讀日記的速度"
+	Sandbox_SkillRecoveryJournalRecoverPassiveSkills = "記錄被動技能"
+	Sandbox_SkillRecoveryJournalRecoverPassiveSkills_tooltip = "切換以記錄被動技能，例如：力量、健身或其他MOD被動技能。"
