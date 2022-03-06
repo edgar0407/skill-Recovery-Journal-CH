@@ -1,4 +1,4 @@
 Recipes_CH = {
 	Recipe_Transcribe_Journal = "寫下轉生日記",
-  Recipe_Bind_Journal = "製作轉生日記",
+  	Recipe_Bind_Journal = "製作轉生日記",
 }
