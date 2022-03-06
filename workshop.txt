@@ -2,7 +2,6 @@ version=1
 id=TBD
 title=Skill Recovery Journal CH (僅繁中)
 description=[h3][i]Lore-friendly(ish) solution to the loss of a character.[/i][/h3]
-
-description=Github link (TBD)
+description=[h1][b][url=https://github.com/edgar0407/skill-Recovery-Journal-CH]Github[/url] [b][h1]
 tags=Build 41;Translate-CH;
 visibility=public
