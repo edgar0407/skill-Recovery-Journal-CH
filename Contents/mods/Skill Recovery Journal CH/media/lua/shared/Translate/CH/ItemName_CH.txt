@@ -1,0 +1,3 @@
+ItemName_CH = {
+  DisplayName_Bound_Journal= "轉生日記 (已有內容)";
+}
