@@ -1,3 +1,4 @@
+IGUI_CH = {
     IGUI_PlayerText_NothingWritten         = "沒什麼可以寫",
     IGUI_PlayerText_DontHaveAnyXP          = "無經驗值可寫",
     IGUI_PlayerText_DoesntFeelRightToWrite = "無法寫他人的轉生日記",
@@ -13,3 +14,4 @@
     IGUI_perks_Lightfoot                   = "靈巧",
     IGUI_perks_Sneak                       = "潛行",
     IGUI_perks_PlantScavenging             = "覓食",
+}
